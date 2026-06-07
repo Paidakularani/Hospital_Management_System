@@ -1,2 +1,2 @@
 # Hospital_Management_System
-Analyzed healthcare data containing patient, doctor, appointment, treatment, and billing records using SQL. Applied joins, aggregate functions, subqueries, CTEs, window functions, and CASE statements to uncover insights, identify trends, and support data-driven decision-making.
+Explored healthcare operations through SQL-driven analysis of patient records, appointments, treatments, doctors, and billing data. Delivered actionable insights into hospital performance, patient engagement, treatment patterns, and revenue trends using advanced SQL techniques. advanced techniques means
